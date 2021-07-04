@@ -1,6 +1,17 @@
-#text {
-    position: absolute;
-    z-index: 1;
-    text-align: center;
-    font-size: 200px;
+@font-face {
+  font-family: "Roboto-Round";
+  src: url("/Fonts/Roboto Round Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
 }
+  
+#wrapper{
+    position: absolute;
+    width: 100%;
+    font-family: 'Roboto-Round';
+}
+
+text{
+  font-family: 'Roboto-Round';
+}
+

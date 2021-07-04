@@ -1,4 +1,4 @@
 {
-    "index": "./ecam-main.jsx",
-    "isInteractive": false
+    "index": "./ecam-main.tsx",
+    "isInteractive": true
 }
