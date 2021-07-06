@@ -2,7 +2,7 @@
     font-family: "B612";
     src: url("/Pages/Fonts/B612-Bold.ttf");
 }
-.btn {
+.btn-main-page {
     position: absolute;
     border: 2px solid white;
     border-color: rgb(229, 239, 255) rgb(87, 103, 127) rgb(140, 166, 204) rgb(229, 239, 255);
@@ -15,7 +15,7 @@
     vertical-align: middle;
     padding: 0px;
 }
-.btn:hover {
+.btn-main-page:hover {
     border: 2px solid rgb(147, 204, 237);
     border-radius: 2px;
 }
